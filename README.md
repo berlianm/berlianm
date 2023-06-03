@@ -10,7 +10,7 @@
   <img align="right" src="gojo.gif" width=250 />
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berlianm&count_private=true)](https://github-readme-stats-11km-git-master-berlianm.vercel.app/)
+[![berliabn GitHub stats](https://github-readme-stats.vercel.app/api?username=berlianm&count_private=true)](https://github-readme-stats-11km-git-master-berlianm.vercel.app/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berlianm&layout=compact&langs_count=7)](https://github-readme-stats-11km-git-master-berlianm.vercel.app/)
 <!---
 berlianm/berlianm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

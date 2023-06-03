@@ -6,7 +6,9 @@
   
   - 💼 Reach me on <a href="https://www.linkedin.com/in/berlianm/">LinkedIn</a>
 
-![](satoru-gojo.gif)
+<a href="https://myoctocat.dev/@sw-yx/octocat">
+  <img align="right" src="https://tenor.com/id/view/satoru-gojo-gif-21717749" width=200 />
+</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berlianm&count_private=true)](https://github-readme-stats-11km-git-master-berlianm.vercel.app/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berlianm&layout=compact&langs_count=7)](https://github-readme-stats-11km-git-master-berlianm.vercel.app/)

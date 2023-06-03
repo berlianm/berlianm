@@ -2,11 +2,8 @@
 
 - 👋 Hi, I’m @berlianm
 - 👀 I’m just interested in Ryujin
-- 🌱 I’m currently learning anything
-- 💞️ I’m looking to collaborate w/ Elon Musk
+- 💼 Reach me on <a href="https://www.linkedin.com/in/berlianm/">LinkedIn</a> too !!
 
-- Reach me in <a href="https://www.linkedin.com/in/berlianm/">LinkedIn</a> 💼 too !!
-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berlianm&count_private=true)](https://github-readme-stats-11km-git-master-berlianm.vercel.app/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berlianm&layout=compact&langs_count=7)](https://github-readme-stats-11km-git-master-berlianm.vercel.app/)
 <!---

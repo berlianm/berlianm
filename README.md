@@ -6,6 +6,8 @@
   
   - 💼 Reach me on <a href="https://www.linkedin.com/in/berlianm/">LinkedIn</a>
 
+![](satoru-gojo.gif)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berlianm&count_private=true)](https://github-readme-stats-11km-git-master-berlianm.vercel.app/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berlianm&layout=compact&langs_count=7)](https://github-readme-stats-11km-git-master-berlianm.vercel.app/)
 <!---

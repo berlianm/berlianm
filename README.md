@@ -7,7 +7,7 @@
   - 💼 Reach me on <a href="https://www.linkedin.com/in/berlianm/">LinkedIn</a>
 
 <a href="https://myoctocat.dev/@berlianm/octocat">
-  <img align="right" src="gojo.gif" width=300 />
+  <img align="right" src="gojo.gif" width=250 />
 </a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berlianm&count_private=true)](https://github-readme-stats-11km-git-master-berlianm.vercel.app/)

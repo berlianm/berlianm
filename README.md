@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning anything
 - 💞️ I’m looking to collaborate w/ Elon Musk
 
+- Reach me in <a href="https://www.linkedin.com/in/berlianm/">LinkedIn</a> 💼 too !!
 
 <!---
 berlianm/berlianm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

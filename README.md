@@ -1,4 +1,4 @@
-![alt text](https://github.com/berlianm/berlianm/blob/main/Profile%20GitHub.png)
+![alt text](https://github.com/berlianm/berlianm/blob/main/My%20Profile%20GitHub.png)
 
 - 👋 Hi, I’m @berlianm
 - 👀 I’m just interested in Ryujin

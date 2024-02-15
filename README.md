@@ -41,7 +41,7 @@ Eager to contribute technical expertise and creative problem-solving skills to a
 
 <div align="center">
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus"/>
+<img alt="C++" src="https://img.shields.io/badge/-C++-blue&style=for-the-badge&?logo=cplusplus"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%fff538.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=yellow"/>
 <img alt="PHP" src="https://img.shields.io/badge/php%20-%23474A8A.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>

@@ -7,8 +7,27 @@ I am a proactive final-year Informatics student with interests in Artificial Int
 Notable projects include developing a Waste Sorting Assistant App to address environmental challenges, creating a Restaurant Review App to enhance user experience, and designing a Medical Data Queuing App for efficient healthcare management. Experienced in implementing advanced concepts such as Fuzzy Logic and Lexical Analysis to solve complex problems.
 
 Eager to contribute technical expertise and creative problem-solving skills to a dynamic team in the fields of AI, Data Science, and Business Intelligence.
-  
-  - 💼 Reach me on <a href="https://www.linkedin.com/in/berlianm/">LinkedIn</a>
+
+
+### 💼 Reach me on:
+
+<div align="center">
+  <a href="mailto:berlianm6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/daymentz" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/berliaanm/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/berlianm/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+
+### GitHub Stats
 
 <a href="https://myoctocat.dev/@berlianm/octocat">
   <img align="right" src="sungjinwoo.gif" width=225 />

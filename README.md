@@ -9,7 +9,7 @@ Notable projects include developing a Waste Sorting Assistant App to address env
 Eager to contribute technical expertise and creative problem-solving skills to a dynamic team in the fields of AI, Data Science, and Business Intelligence.
 
 
-### 💼 Reach me on
+### 💼 Reach Me on
 
 <div align="center">
   <a href="mailto:berlianm6@gmail.com" target="_blank">
@@ -33,8 +33,25 @@ Eager to contribute technical expertise and creative problem-solving skills to a
   <img align="right" src="sungjinwoo.gif" width=225 />
 </a>
 
-[![berliabn GitHub stats](https://github-readme-stats.vercel.app/api?username=berlianm&count_private=true)](https://github-readme-stats-11km-git-master-berlianm.vercel.app/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berlianm&layout=compact&langs_count=7)](https://github-readme-stats-11km-git-master-berlianm.vercel.app/)
+[![](https://github-readme-stats.vercel.app/api?username=berlianm&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)](https://github-readme-stats-11km-git-master-berlianm.vercel.app/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berlianm&&layout=compact&theme=cobalt)](https://github-readme-stats-11km-git-master-berlianm.vercel.app/)
+
+
+### 💻 Programming Tools
+
+<div align="center">
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%fff538.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=yellow"/>
+<img alt="PHP" src="https://img.shields.io/badge/php%20-%23474A8A.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23F05033.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Flutter" src="https://img.shields.io/badge/flutter%20-%2342A5F5.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
+</div>
+
 <!---
 berlianm/berlianm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

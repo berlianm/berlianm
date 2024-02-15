@@ -52,6 +52,10 @@ Eager to contribute technical expertise and creative problem-solving skills to a
 <img alt="Flutter" src="https://img.shields.io/badge/flutter%20-%2342A5F5.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 
+
+### 📖 Github Readme
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=berlianm&theme=transparent)](https://git.io/streak-stats)
 <!---
 berlianm/berlianm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

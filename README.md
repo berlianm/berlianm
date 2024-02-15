@@ -40,16 +40,18 @@ Eager to contribute technical expertise and creative problem-solving skills to a
 ### 💻 Programming Tools
 
 <div align="center">
-<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=white"/>
+<img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+<img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus&style=for-the-badge&logoColor=white"/>
+<img alt="Netbeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%fff538.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=yellow"/>
-<img alt="PHP" src="https://img.shields.io/badge/php%20-%23474A8A.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23F05033.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Flutter" src="https://img.shields.io/badge/flutter%20-%2342A5F5.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 

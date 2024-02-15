@@ -9,7 +9,7 @@ Notable projects include developing a Waste Sorting Assistant App to address env
 Eager to contribute technical expertise and creative problem-solving skills to a dynamic team in the fields of AI, Data Science, and Business Intelligence.
 
 
-### 💼 Reach me on:
+### 💼 Reach me on
 
 <div align="center">
   <a href="mailto:berlianm6@gmail.com" target="_blank">
@@ -27,7 +27,7 @@ Eager to contribute technical expertise and creative problem-solving skills to a
 </div>
 
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <a href="https://myoctocat.dev/@berlianm/octocat">
   <img align="right" src="sungjinwoo.gif" width=225 />

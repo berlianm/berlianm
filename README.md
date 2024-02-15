@@ -4,7 +4,7 @@
 
 I am a proactive final-year Informatics student with interests in Artificial Intelligence 🧠, Data Science 📊, and Business Intelligence 📈. Proficient in a wide array of programming languages including Python, Golang, C++, MySQL, and Java, with a demonstrated ability to utilize these skills in innovative projects. Proficient in using editing applications such as Adobe Premiere Pro, After Effects, and Photoshop to create creative videos.
 
-Notable projects include developing a Waste Sorting Assistant App 🚯 to address environmental challenges, creating a Restaurant Review App 🍽️ to enhance user experience, and designing a Medical Data Queuing App 🏥 for efficient healthcare management. Experienced in implementing advanced concepts such as Fuzzy Logic and Lexical Analysis to solve complex problems 🕵.
+Notable projects include developing a Waste Sorting Assistant App 🚯 to address environmental challenges, creating a Restaurant Review App 🍽️ to enhance user experience, and designing a Medical Data Queuing App 🏥 for efficient healthcare management. Experienced in implementing advanced concepts to solve complex problems 🕵.
 
 Eager to contribute technical expertise and creative problem-solving skills to a dynamic team in the fields of AI, Data Science, and Business Intelligence.
 

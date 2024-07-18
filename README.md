@@ -6,8 +6,8 @@
 I am a data scientist with a recently graduated Bachelor's degree in Informatics, focused on developing data-driven solutions 📈 with proficiency in programming and deep analysis 📊. I have extensive experience in using programming tools and libraries such as TensorFlow, Keras, and various AI 🧠 and machine learning related technologies. I have successfully developed and implemented various projects, including data analysis, prediction, and classification models. I also have expertise in creative and functional UI/UX design, designing engaging interfaces for users.
 
 ## 📚 Knowledge and Study
-- **Programming and Data Analysis:** Proficient in Python 🐍, data processing with pandas 📊, and data visualization with matplotlib 📉 and seaborn 🌊.
-- **Machine Learning:** Experience in building and evaluating machine learning models using TensorFlow 🧠 and Keras ⚙️.
+- **Programming and Data Analysis:** Proficient in Python 🐍, data processing, and data visualizationwith pandas 📊.
+- **Machine Learning:** Experience in building amachine learning and deep learning models using TensorFlow 🧠 and Keras ⚙️.
 - **Big Data and Business Intelligence:** Currently studying and developing expertise in Big Data 💾 and Business Intelligence technologies 📈.
 - **Reinforcement Learning:** Experience in applying reinforcement learning algorithms for problem solving 🎮.
 

@@ -1,6 +1,6 @@
 <!-- ![alt text](https://github.com/berlianm/berlianm/blob/main/Github%20Profile.png) -->
 
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Berlian!
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Berlian M.!
 
 ## 🧑‍💻 About Me
 I am a data scientist with a recently graduated Bachelor's degree in Informatics, focused on developing data-driven solutions 📈 with proficiency in programming and deep analysis 📊. I have extensive experience in using programming tools and libraries such as TensorFlow, Keras, and various AI 🧠 and machine learning related technologies. I have successfully developed and implemented various projects, including data analysis, prediction, and classification models. I also have expertise in creative and functional UI/UX design, designing engaging interfaces for users.
@@ -29,9 +29,9 @@ I am currently focusing on learning more about Software Engineering 🖥️ to c
   <a href="https://www.instagram.com/berliaanm/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://twitter.com/daymentz" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+<!--   <a href="https://x.com/berliaaanm" target="_blank">
+    <img src="https://img.shields.io/badge/X%231DA1F2?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a> -->
 </div>
 
 ## 📊 GitHub Stats
@@ -69,6 +69,9 @@ I am currently focusing on learning more about Software Engineering 🖥️ to c
     <img src="https://github-readme-streak-stats.herokuapp.com?user=berlianm&theme=transparent" alt="GitHub Streak" />
   </a>
 </div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=berlianm&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!---
 berlianm/berlianm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
